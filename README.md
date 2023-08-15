@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/1082006975212163092/1140998961361072249/image.png">
 </div>
 
-#### This is an AI that makes FiveM ui's with Tailwind, using the gpt-3.5 model, usually interfacing for beginners and giving index.html
+#### This is an AI that makes FiveM ui's with Tailwind, using the gpt-3.5-turbo model, usually interfacing for beginners and giving index.html
 
 ## Installation
 * Clone the repository: ``git clone https://github.com/alp1x/sharingan.uyuyorum.com``
