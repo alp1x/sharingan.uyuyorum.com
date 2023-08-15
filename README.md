@@ -5,6 +5,9 @@
 
 #### This is an AI that makes FiveM ui's with Tailwind, using the gpt-3.5-turbo model, usually interfacing for beginners and giving index.html
 
+## Fivem Police MDT UI made with Sharingan
+<img src="https://cdn.discordapp.com/attachments/1082006975212163092/1138155354736316456/image.png">
+
 ## Installation
 * Clone the repository: ``git clone https://github.com/alp1x/sharingan.uyuyorum.com``
 * Install the required dependencies: ``pnpm i``
