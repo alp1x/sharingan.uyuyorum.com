@@ -17,6 +17,11 @@
 * **https://platform.openai.com/**
 * Copy the .env.example file to .env and fill in the required information.
 
+
+## Roadmap
+* ⌛ Merge prompts, and set as option or set custom prompt
+* ⌛ Create prompt instance for specific UI
+
 ## Credits
 * **[aipage.dev](https://github.com/zinedkaloc/aipage.dev) [Next.js]** 
 * thanks to deniz **[@zinedkaloc](https://github.com/zinedkaloc/)**
