@@ -10,6 +10,7 @@
 
 ## Installation
 * Clone the repository: ``git clone https://github.com/alp1x/sharingan.uyuyorum.com``
+* Navigate to the project directory: ``cd sharingan.uyuyorum.com``
 * Install the required dependencies: ``pnpm i``
 * Run the generator: ``pnpm run dev``
 
