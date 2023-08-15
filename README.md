@@ -18,7 +18,7 @@
 * Copy the .env.example file to .env and fill in the required information.
 
 ## Credits
-* **[aipage.dev](https://github.com/zinedkaloc/aipage.dev)** 
+* **[aipage.dev](https://github.com/zinedkaloc/aipage.dev) [Next.js]** 
 * thanks to deniz **[@zinedkaloc](https://github.com/zinedkaloc/)**
 
 ## License
