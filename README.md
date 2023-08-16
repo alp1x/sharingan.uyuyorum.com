@@ -7,6 +7,8 @@
 
 ## Fivem Police MDT UI made with Sharingan
 <img src="https://cdn.discordapp.com/attachments/1082006975212163092/1138155354736316456/image.png">
+<img src="https://cdn.discordapp.com/attachments/1127682414911705098/1140468917152780318/image.png">
+<img src="https://cdn.discordapp.com/attachments/1127682414911705098/1140449407372902501/image.png">
 
 ## Installation
 * Clone the repository: ``git clone https://github.com/alp1x/sharingan.uyuyorum.com``
