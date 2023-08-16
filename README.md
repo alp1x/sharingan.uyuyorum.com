@@ -22,6 +22,7 @@
 ## Roadmap
 * ⌛ Merge prompts, and set as option or set custom prompt
 * ⌛ Create prompt instance for specific UI
+* ⌛ force **[sequester](https://github.com/sequester0)** to throw PR ( kek )
 
 ## Credits
 * **[aipage.dev](https://github.com/zinedkaloc/aipage.dev) [Next.js]** 
